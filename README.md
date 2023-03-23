@@ -11,6 +11,7 @@ When you don't find any more reports, write "EXIT" and you will have a csv file 
 ![20230323_114043](https://user-images.githubusercontent.com/87909401/227182492-672a815d-2e14-4181-a7e8-2a26634fd88e.gif)
 
 ## States to learn
+Now you can learn the states that are causing you problems.
 
 ![Capture d'écran 2023-03-23 120251](https://user-images.githubusercontent.com/87909401/227187383-651d4a5b-655c-46a2-b67f-4a60a1ab6f68.png)
 
